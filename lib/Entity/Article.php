@@ -35,7 +35,7 @@ class Article extends Entity
             'description_detaillee' => $this->getDescriptionDetaillee(),
             'quantite' => $this->getQuantite(),
             'poids' => $this->getPoids(),
-            'valeur' => $this->getPoids(),
+            'valeur' => $this->getValeur(),
             'pays_origine' => $this->getPaysOrigine(),
             'num_tarifaire' => $this->getNumTarifaire(),
         );
