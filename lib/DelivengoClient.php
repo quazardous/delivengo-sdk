@@ -11,7 +11,7 @@ use Exception;
  */
 class DelivengoClient
 {
-    const BASE_URL = 'https://mydelivengo.laposte.fr/api/v2.3';
+    const BASE_URL = 'https://mydelivengo.laposte.fr/api/v2.4';
 
     /** @var string $apiKey */
     private $apiKey;
